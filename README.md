@@ -1,2 +1,7 @@
-# DuoIssueBypassCode
-Issues a bypass code within a web application (with Web SDK protection)
+# MetroGmailComb
+A utility to comb through a gmail inbox and parse out metro receipt information
+
+## To run the project yourself, instructions are included in /server in that README.md
+
+## To see the data in action, visit the link below
+http://tannerembry.com/projects/bus-metrics
